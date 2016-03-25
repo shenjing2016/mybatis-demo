@@ -14,7 +14,7 @@ class MybatisBootDemoApplicationTests {
   @Test
   fun contextLoads() {
     assert(1 + 2 == 3);
-    assert(3+5==8);
+    assert(3+6==9);
   }
 
 }
